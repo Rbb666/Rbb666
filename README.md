@@ -2,9 +2,9 @@
 
 ### Hi there 👋🏿
 
-![](https://github-readme-stats.vercel.app/api?username=Rbb666)
+![](https://github-readme-stats.vercel.app/api?username=Rbb666) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rbb666)
+
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rbb666)
 
 ### Contribution
 ![](https://activity-graph.herokuapp.com/graph?username=Rbb666&theme=dracula)
