@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:Rbb666?theme=asoul">
 
-### Hi there 👋🏿
+### Welcome 👋🏿
 
 ![](https://github-readme-stats.vercel.app/api?username=Rbb666)
 
